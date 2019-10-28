@@ -1,0 +1,2 @@
+class MyRescuer
+end
